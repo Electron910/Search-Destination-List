@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.container {
+  height: 400px;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.para {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #0f172a;
+}
+.image {
+  height: 150px;
+  width: 150px;
+  border-radius: 10px;
+}
